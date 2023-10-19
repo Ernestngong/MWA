@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>boa</finalName>
+		<finalName>application</finalName>
 		
 		<plugins>
 			<plugin>
