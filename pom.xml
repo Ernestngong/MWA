@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>clinton</finalName>
+		<finalName>app</finalName>
 		
 		<plugins>
 			<plugin>
