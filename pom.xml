@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>app</finalName>
+		<finalName>Louis</finalName>
 		
 		<plugins>
 			<plugin>
